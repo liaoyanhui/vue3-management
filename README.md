@@ -4,7 +4,7 @@
  * @Author: shangxia
  * @Date: 2023-11-09 11:40:14
  * @LastEditors: shangxia
- * @LastEditTime: 2023-11-09 16:02:30
+ * @LastEditTime: 2023-12-07 10:45:22
 -->
 
 ## 简介
@@ -16,13 +16,13 @@ IC 现货 管理系统
 - 获取项目代码
 
 ```bash
-git clone http://git.dzsc.com:3000/Weiku/ZXIC.Manage.git
+git clone https://github.com/liaoyanhui/vue3-management.git
 ```
 
 - 安装依赖
 
 ```bash
-cd ZXIC.Manage
+cd vue3-management
 
 yarn install
 or
